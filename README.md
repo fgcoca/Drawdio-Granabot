@@ -17,6 +17,7 @@ Montaje del nuevo adaptador en el soporte de la Raspberry Pi
 # **Autores**
 
 [Federico Coca Caba] (https://github.com/fgcoca)
+
 Francisco López Castro
 
 # **Créditos**
