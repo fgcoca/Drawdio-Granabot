@@ -1,0 +1,164 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 27/10/2015 19:06:03
+
+BeginCmp
+TimeStamp = /5535868B;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = drawdio:CR2025_Keystone_3002_button_cell_holder_SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5535860E;
+Reference = C1;
+ValeurCmp = CP;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55358310;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /553584D8;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Rect_L4_W2.5_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55358485;
+Reference = C4;
+ValeurCmp = CP;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /56241D86;
+Reference = P1;
+ValeurCmp = CONN_01X01;
+IdModule  = drawdio:Drawdio_conn;
+EndCmp
+
+BeginCmp
+TimeStamp = /56241E1F;
+Reference = P2;
+ValeurCmp = CONN_01X01;
+IdModule  = drawdio:Drawdio_conn;
+EndCmp
+
+BeginCmp
+TimeStamp = /56249E74;
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_2-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /562400DE;
+Reference = P4;
+ValeurCmp = CONN_01X02;
+IdModule  = drawdio:RS_mini_speaker_724-3100;
+EndCmp
+
+BeginCmp
+TimeStamp = /56249F93;
+Reference = P5;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_2-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56249FEB;
+Reference = P6;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_2-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5624A048;
+Reference = P7;
+ValeurCmp = CONN_01X01;
+IdModule  = Mounting_Holes:MountingHole_2-5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F6FA6;
+Reference = P9;
+ValeurCmp = CONN_02X04;
+IdModule  = Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F9FC9;
+Reference = P10;
+ValeurCmp = CONN_01X02;
+IdModule  = drawdio:AAA_cell_holder;
+EndCmp
+
+BeginCmp
+TimeStamp = /5624397B;
+Reference = Q1;
+ValeurCmp = BC558;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /56243988;
+Reference = Q2;
+ValeurCmp = BC547;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /553583B6;
+Reference = Q3;
+ValeurCmp = BC558;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /553583A7;
+Reference = Q4;
+ValeurCmp = BC547;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = /55358209;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5535828D;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Discret:R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F9364;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /562F928B;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Discret:R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55357FC1;
+Reference = U1;
+ValeurCmp = LM555N;
+IdModule  = Housings_DIP:DIP-8_W7.62mm_LongPads;
+EndCmp
+
+EndListe

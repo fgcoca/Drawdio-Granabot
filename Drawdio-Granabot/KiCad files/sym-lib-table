@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name drawdio-rescue)(type Legacy)(uri ${KIPRJMOD}/drawdio-rescue.lib)(options "")(descr ""))
+)
