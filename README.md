@@ -11,6 +11,11 @@ Cualquiera de los archivos o imágenes pueden ser descargados, usados, cambiados
 
 Montaje del nuevo adaptador en el soporte de la Raspberry Pi
 
+Podemos ver videos del  funcionamiento en cualquiera de los enlaces siguientes:
+* https://www.youtube.com/watch?v=yos-airT05g
+* https://www.youtube.com/watch?v=DHovDE4k54I
+* https://www.youtube.com/watch?v=34B8fDIqGeM
+
 
 # **Manual rápido de uso**
 
