@@ -1,11 +1,19 @@
 # Drawdio-Granabot
-Versión de Drawdio derivada de la de @JorFru de la @UC3Music
+Esta versión de Drawdio es derivada de la de [**Jorge Frutos** (@JorFru)](https://twitter.com/JorFru_) realizada en [**UC3Music** (@UC3Music)](https://music.uc3m.es/) realizada cómo una práctica más de diseño de los alumnos de primer curso del Ciclo Formativo de Grado Superior de Mantenimiento Electrónico del IES Virgen de las Nieves y que ha pasado a formar parte de la exposición Play del Parque de las Ciencias de Granada. 
 
-![Soporte]()
+![Aspecto final del montaje con lápiz][1]
 
+ [1]: https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/Drawdio-finished.png
 
-# **3D-Design**
-Cualquiera de los archivos o imágenes pueden ser descargados, usados, cambiados, compartidos y todo lo que se nos ocurra siempre bajo las condiciones establecidad en el apartado **License**
+# **El diseño**
+Es simplemente una versión simple de la versión de Jorge Frutos también diseñada con [Kicad 5.02](http://kicad-pcb.org/) y gracias a que su diseño es compartido de forma libre y por tanto patrimonio de la humanidad. Bajo este mismo principio de licencia CC BY SA se realiza esta versión y por tanto cualquiera de sus partes puede ser descargada, usada, cambiada, compartida y todo lo que se nos ocurra siempre bajo las condiciones establecidad en el apartado **Licencia**
+
+Los archivos de diseño los tenemos en el enlace:
+
+![2]
+
+[2]: https://github.com/fgcoca/Drawdio-Granabot/tree/master/Drawdio-Granabot/KiCad%20files
+
 
 # **Resultado final**
 
