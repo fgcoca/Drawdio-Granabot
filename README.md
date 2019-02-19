@@ -33,14 +33,10 @@ El aspecto de la PCB con y sin componentes por ambas caras lo vemos en las imág
 | Cara | Aspecto |
 | ---------- | ---------- |
 | TOP  | ![TOP](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/TOP.png)   |
-| TOP montada  | ![TOPm]()   |
-| BOTTON  | ![BOT]()   |
-| BOTTON montada  | ![BOTm]()    |
-
+| TOP montada  | ![TOPm](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/TOP-with-components.png)   |
+| BOTTON  | ![BOT](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/Botton.png)   |
+| BOTTON montada  | ![BOTm](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/Botton-with-componentes.png)    |
 # **Resultado final**
-
-Montaje del nuevo adaptador en el soporte de la Raspberry Pi
-
 Podemos ver videos del  funcionamiento en cualquiera de los enlaces siguientes:
 * https://www.youtube.com/watch?v=yos-airT05g
 * https://www.youtube.com/watch?v=DHovDE4k54I
@@ -54,6 +50,8 @@ Podemos ver videos del  funcionamiento en cualquiera de los enlaces siguientes:
 [Federico Coca Caba] (https://github.com/fgcoca)
 
 Francisco López Castro
+
+Alumnos del grupo 1TSME
 
 # **Créditos**
   * En primer lugar al creador original de [Drawdio](https://drawdio.com/), Jay Silver (@wakeupsilver).
