@@ -10,10 +10,32 @@ Es simplemente una versión simple de la versión de Jorge Frutos también dise�
 
 Los archivos de diseño los tenemos en el enlace:
 
-![2]
+https://github.com/fgcoca/Drawdio-Granabot/tree/master/Drawdio-Granabot/KiCad%20files
 
-[2]: https://github.com/fgcoca/Drawdio-Granabot/tree/master/Drawdio-Granabot/KiCad%20files
+Los archivos gerber están en este enlace:
 
+https://github.com/fgcoca/Drawdio-Granabot/tree/master/Drawdio-Granabot/gerbers
+
+las PCBs del proyecto se fabrican en [PCBWay](https://www.pcbway.com/) y están disponibles en el enlace que sigue:
+
+https://www.pcbway.com/project/shareproject/W57189ASE4_drawdio.html
+
+Si quieres ver lo que necesitas aquí tenemos una lista de materiales gráfica:
+
+https://github.com/fgcoca/Drawdio-Granabot/blob/master/Drawdio-Granabot/doc/Grafic-BOM-Drawdio.pdf
+
+Correspondiente al esquema que podemos ver en el enlace:
+
+https://github.com/fgcoca/Drawdio-Granabot/blob/master/Drawdio-Granabot/doc/Esquema-drawdio.pdf
+
+El aspecto de la PCB con y sin componentes por ambas caras lo vemos en las imágenes siguientes:
+
+| Cara | Aspecto |
+| ---------- | ---------- |
+| TOP  | ![TOP](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/TOP.png)   |
+| TOP montada  | ![TOPm]()   |
+| BOTTON  | ![BOT]()   |
+| BOTTON montada  | ![BOTm]()    |
 
 # **Resultado final**
 
