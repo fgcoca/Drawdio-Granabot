@@ -42,8 +42,27 @@ Podemos ver videos del  funcionamiento en cualquiera de los enlaces siguientes:
 * https://www.youtube.com/watch?v=DHovDE4k54I
 * https://www.youtube.com/watch?v=34B8fDIqGeM
 
+# **Presencia en Play**
+Nuestro proyecto ha tenido el honor de ser seleccionado para formar parte de la exposición [Play. Ciencia y música](http://www.parqueciencias.com/parqueciencias/exposiciones-temporales/playcienciamusica.html) que se está celebrando actualmente (febrero de 2019) en el [Parque de las Ciencias de Granada](http://www.parqueciencias.com/parqueciencias/). Es de destacar que entre las entidades colaboradoras figura el IES Virgen de las Nieves, lo que podemos comprobar en el triptico de la exposición.
 
-# **Manual rápido de uso**
+El proyecto que se lleva al parque es presentado por este cartel.
+
+![Cartel](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Drawdio-Granabot/Cartel/Cartel.jpg)
+
+Dicho cartel queda expuesto en el Parque y nos fotografiamos con el mismo tanto la directora del centro como yo mismo.
+
+| ![dire](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/En-el-Parque/Dire-cartel-m.jpg) | ![yo](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/En-el-Parque/Fede-cartel-m.jpg) |
+
+El proyecto presentado se puede consultar en estos enlaces:
+* [Proyecto Drawdio-Granabot para Play pdf](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Drawdio-Granabot/doc/Proyecto-Play.pdf)
+* [Proyecto Drawdio-Granabot para Play odt](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Drawdio-Granabot/doc/Proyecto-Play.odt)
+
+Para el evento de presentación del proyecto que ha tenido lugar el 14 de febrero de 2019 en el Parque se diseñó una camiseta para que el equipo de alumnos pudiera lucirla, lo que podemos apreciar en la imágenes. Todo el acto de presentación ha sido realizado por los alumnos que lo han hecho divertido e interactivo con el público asistente. Muchas gracias a todos por vuestro gran trabajo.
+
+![E1](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/En-el-Parque/Equipo-1.jpg)
+![E2](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/En-el-Parque/Equipo-2.jpg)
+![E3](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/En-el-Parque/Equipo-3.jpg)
+![E4](https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/En-el-Parque/Equipo-4.jpg)
 
 # **Autores**
 
