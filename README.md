@@ -6,7 +6,7 @@ Esta versión de Drawdio es derivada de la de [**Jorge Frutos** (@JorFru)](https
  [1]: https://github.com/fgcoca/Drawdio-Granabot/blob/master/Media/Drawdio/Drawdio-finished.png
 
 # **El diseño**
-Es simplemente una versión simple de la versión de Jorge Frutos también diseñada con [Kicad 5.02](http://kicad-pcb.org/) y gracias a que su diseño es compartido de forma libre y por tanto patrimonio de la humanidad. Bajo este mismo principio de licencia CC BY SA se realiza esta versión y por tanto cualquiera de sus partes puede ser descargada, usada, cambiada, compartida y todo lo que se nos ocurra siempre bajo las condiciones establecidad en el apartado **Licencia**
+Es simplemente una versión simple de la versión de Jorge Frutos también diseñada con [Kicad 5.02](http://kicad.org/) y gracias a que su diseño es compartido de forma libre y por tanto patrimonio de la humanidad. Bajo este mismo principio de licencia CC BY SA se realiza esta versión y por tanto cualquiera de sus partes puede ser descargada, usada, cambiada, compartida y todo lo que se nos ocurra siempre bajo las condiciones establecidad en el apartado **Licencia**
 
 Los archivos de diseño los tenemos en el enlace:
 
